@@ -1,0 +1,43 @@
+h1{
+    letter-spacing: 40px;
+    text-align: center;
+}
+body{
+    background-color: darksalmon;
+}
+h3{
+    /*border: 2px black solid: */
+
+    border-top: 5px blue double;
+    border-right: 5px khaki solid;
+    border-bottom: 5px green solid;
+    border-left: 5px rgb(5, 5, 148) solid;
+
+    /*padding*/
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 80px;
+    padding-left: 50px;
+
+    /*margin*/
+    /*margin: 70px; */
+    margin-top: 90px;
+    margin-right: 50px;
+    margin-bottom: 70px;
+    margin-left: 50px;
+    
+    /*content wrapper*/
+    background-color: brown;
+
+    color: bisque;
+
+}
+a{
+    background-color: rgb(33, 134, 100);
+    color: darkslategray;
+    
+}
+a:hover{
+    background-color: indianred;
+    color: darkcyan;
+}
