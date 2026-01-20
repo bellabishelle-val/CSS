@@ -1,0 +1,43 @@
+body{
+    background-color: lightcoral;
+}
+#par1{
+    color: darkslategray;
+    background-color: burlywood;
+    font-size: 26px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+#par2{
+    color: rosybrown;
+    font-size: 28px;
+    background-color: lightblue;
+    padding: 10px;
+    text-align: end;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+#par3{
+    color: darkseagreen;
+    background-color: pink;
+    text-decoration-line: line-through;
+    font-size: 30px;
+}
+#insidetext{
+    color: maroon;
+    text-decoration: underline;
+    font-size: 65px;
+}
+.myparagraph{
+    color: darkcyan;
+    font-size: 28px;
+    background-color: tan;
+}
+.madiv{
+    color: firebrick;
+    text-transform: capitalize;
+    text-decoration: wavy;
+    text-rendering: geometricPrecision;
+    text-wrap: inherit;
+    font-size: 25px;
+}
