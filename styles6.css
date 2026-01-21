@@ -1,0 +1,14 @@
+button{
+    background-color: burlywood;
+    padding: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 15px;
+    font-weight: 600;
+    color: cadetblue;
+}
+
+button:hover{
+    background-color: darkseagreen;
+    color: darksalmon;
+}

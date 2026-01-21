@@ -1,0 +1,32 @@
+#BLACK{
+    background-color: black;
+    height: 200px;
+    width: 1000px;
+    align-self: center;
+    
+}
+.white{
+    background-color: white;
+    height: 30px;
+    width: 1000px;
+}
+#red{
+    background-color: red;
+    height: 200px;
+    width: 1000px;
+}
+#green{
+    background-color: green;
+    height: 200px;
+    width: 1000px;
+}
+body{
+    background-color: cadetblue;
+}
+img{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    
+   
+}
